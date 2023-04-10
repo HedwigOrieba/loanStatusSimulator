@@ -1,0 +1,70 @@
+Requesting AccountNo >> 0000000003 Request Date: 4/10/2023 1:57:21 PM :api-response-msg: [{"_id":"642d6dd8fb09360cd51bd92a","__custId":"C000003","__loanId":"L000002","__disbursementDate":"2023-01-30T12:00:00.000Z","__outStandingAmount":20000,"__v":0},{"_id":"642d707dfb09360cd51bd942","__custId":"C000003","__loanId":"L000003","__disbursementDate":"2023-03-21T09:00:00.000Z","__outStandingAmount":60000,"__v":0}]
+The remote server returned an error: (400) Bad Request.....Failure: Attempt to retrieve loan-status for a non-existant Account : 0000000048. <br/>
+The remote server returned an error: (400) Bad Request.....Failure: Attempt to retrieve loan-status for a non-existant Account : 0000000033. <br/>
+The remote server returned an error: (400) Bad Request.....Failure: Attempt to retrieve loan-status for a non-existant Account : 0000000031. <br/>
+The remote server returned an error: (400) Bad Request.....Failure: Attempt to retrieve loan-status for a non-existant Account : 0000000037. <br/>
+The remote server returned an error: (400) Bad Request.....Failure: Attempt to retrieve loan-status for a non-existant Account : 0000000020. <br/>
+Requesting AccountNo >> 0000000011 Request Date: 4/10/2023 1:57:21 PM :api-response-msg: no loan found
+Requesting AccountNo >> 0000000001 Request Date: 4/10/2023 1:57:21 PM :api-response-msg: [{"_id":"6431957d3c9e1e33409f5135","__custId":"C000001","__loanId":"L000010","__disbursementDate":"2023-02-08T10:00:00.000Z","__outStandingAmount":8000,"__v":0}]
+Requesting AccountNo >> 0000000006 Request Date: 4/10/2023 1:57:21 PM :api-response-msg: [{"_id":"6430a9b5546859257f522986","__custId":"C000006","__loanId":"L000009","__disbursementDate":"2023-02-08T10:00:00.000Z","__outStandingAmount":8000,"__v":0}]
+The remote server returned an error: (400) Bad Request.....Failure: Attempt to retrieve loan-status for a non-existant Account : 0000000047. <br/>
+The remote server returned an error: (400) Bad Request.....Failure: Attempt to retrieve loan-status for a non-existant Account : 0000000030. <br/>
+The remote server returned an error: (400) Bad Request.....Failure: Attempt to retrieve loan-status for a non-existant Account : 0000000049. <br/>
+The remote server returned an error: (400) Bad Request.....Failure: Attempt to retrieve loan-status for a non-existant Account : 0000000047. <br/>
+Requesting AccountNo >> 0000000001 Request Date: 4/10/2023 2:00:07 PM :api-response-msg: [{"_id":"6431957d3c9e1e33409f5135","__custId":"C000001","__loanId":"L000010","__disbursementDate":"2023-02-08T10:00:00.000Z","__outStandingAmount":8000,"__v":0}]
+The remote server returned an error: (400) Bad Request.....Failure: Attempt to retrieve loan-status for a non-existant Account : 0000000023. <br/>
+The remote server returned an error: (400) Bad Request.....Failure: Attempt to retrieve loan-status for a non-existant Account : 0000000018. <br/>
+Requesting AccountNo >> 0000000013 Request Date: 4/10/2023 2:00:08 PM :api-response-msg: no loan found
+The remote server returned an error: (400) Bad Request.....Failure: Attempt to retrieve loan-status for a non-existant Account : 0000000041. <br/>
+Requesting AccountNo >> 0000000009 Request Date: 4/10/2023 2:00:08 PM :api-response-msg: no loan found
+The remote server returned an error: (400) Bad Request.....Failure: Attempt to retrieve loan-status for a non-existant Account : 0000000044. <br/>
+The remote server returned an error: (400) Bad Request.....Failure: Attempt to retrieve loan-status for a non-existant Account : 0000000048. <br/>
+The remote server returned an error: (400) Bad Request.....Failure: Attempt to retrieve loan-status for a non-existant Account : 0000000032. <br/>
+The remote server returned an error: (400) Bad Request.....Failure: Attempt to retrieve loan-status for a non-existant Account : 0000000037. <br/>
+The remote server returned an error: (400) Bad Request.....Failure: Attempt to retrieve loan-status for a non-existant Account : 0000000049. <br/>
+The remote server returned an error: (400) Bad Request.....Failure: Attempt to retrieve loan-status for a non-existant Account : 0000000021. <br/>
+Requesting AccountNo >> 0000000015 Request Date: 4/10/2023 2:02:36 PM :api-response-msg: [{"_id":"6431b4e529a1ad1e77895532","__custId":"C000015","__loanId":"L000012","__disbursementDate":"2023-02-08T10:00:00.000Z","__outStandingAmount":9000,"__v":0}]
+Requesting AccountNo >> 0000000009 Request Date: 4/10/2023 2:02:36 PM :api-response-msg: no loan found
+The remote server returned an error: (400) Bad Request.....Failure: Attempt to retrieve loan-status for a non-existant Account : 0000000041. <br/>
+The remote server returned an error: (400) Bad Request.....Failure: Attempt to retrieve loan-status for a non-existant Account : 0000000045. <br/>
+The remote server returned an error: (400) Bad Request.....Failure: Attempt to retrieve loan-status for a non-existant Account : 0000000038. <br/>
+The remote server returned an error: (400) Bad Request.....Failure: Attempt to retrieve loan-status for a non-existant Account : 0000000031. <br/>
+Requesting AccountNo >> 0000000009 Request Date: 4/10/2023 2:03:13 PM :api-response-msg: no loan found
+The remote server returned an error: (400) Bad Request.....Failure: Attempt to retrieve loan-status for a non-existant Account : 0000000021. <br/>
+The remote server returned an error: (400) Bad Request.....Failure: Attempt to retrieve loan-status for a non-existant Account : 0000000021. <br/>
+The remote server returned an error: (400) Bad Request.....Failure: Attempt to retrieve loan-status for a non-existant Account : 0000000035. <br/>
+Requesting AccountNo >> 0000000012 Request Date: 4/10/2023 2:03:13 PM :api-response-msg: no loan found
+Requesting AccountNo >> 0000000015 Request Date: 4/10/2023 2:03:13 PM :api-response-msg: [{"_id":"6431b4e529a1ad1e77895532","__custId":"C000015","__loanId":"L000012","__disbursementDate":"2023-02-08T10:00:00.000Z","__outStandingAmount":9000,"__v":0}]
+Requesting AccountNo >> 0000000015 Request Date: 4/10/2023 2:03:13 PM :api-response-msg: [{"_id":"6431b4e529a1ad1e77895532","__custId":"C000015","__loanId":"L000012","__disbursementDate":"2023-02-08T10:00:00.000Z","__outStandingAmount":9000,"__v":0}]
+The remote server returned an error: (400) Bad Request.....Failure: Attempt to retrieve loan-status for a non-existant Account : 0000000041. <br/>
+The remote server returned an error: (400) Bad Request.....Failure: Attempt to retrieve loan-status for a non-existant Account : 0000000042. <br/>
+Requesting AccountNo >> 0000000014 Request Date: 4/10/2023 2:10:59 PM :api-response-msg: [{"_id":"6431b1585d6ca92ed9cdf424","__custId":"C000014","__loanId":"L000011","__disbursementDate":"2023-02-08T10:00:00.000Z","__outStandingAmount":8000,"__v":0}]
+The remote server returned an error: (400) Bad Request.....Failure: Attempt to retrieve loan-status for a non-existant Account : 0000000021. <br/>
+The remote server returned an error: (400) Bad Request.....Failure: Attempt to retrieve loan-status for a non-existant Account : 0000000023. <br/>
+The remote server returned an error: (400) Bad Request.....Failure: Attempt to retrieve loan-status for a non-existant Account : 0000000037. <br/>
+The remote server returned an error: (400) Bad Request.....Failure: Attempt to retrieve loan-status for a non-existant Account : 0000000034. <br/>
+The remote server returned an error: (400) Bad Request.....Failure: Attempt to retrieve loan-status for a non-existant Account : 0000000036. <br/>
+Requesting AccountNo >> 0000000014 Request Date: 4/10/2023 2:10:59 PM :api-response-msg: [{"_id":"6431b1585d6ca92ed9cdf424","__custId":"C000014","__loanId":"L000011","__disbursementDate":"2023-02-08T10:00:00.000Z","__outStandingAmount":8000,"__v":0}]
+The remote server returned an error: (400) Bad Request.....Failure: Attempt to retrieve loan-status for a non-existant Account : 0000000041. <br/>
+The remote server returned an error: (400) Bad Request.....Failure: Attempt to retrieve loan-status for a non-existant Account : 0000000045. <br/>
+The remote server returned an error: (400) Bad Request.....Failure: Attempt to retrieve loan-status for a non-existant Account : 0000000021. <br/>
+Unable to connect to the remote server....Failure: Attempt to retrieve loan-status for a non-existant Account : 0000000025. <br/>
+Unable to connect to the remote server....Failure: Attempt to retrieve loan-status for a non-existant Account : 0000000028. <br/>
+Unable to connect to the remote server....Failure: Attempt to retrieve loan-status for a non-existant Account : 0000000014. <br/>
+Unable to connect to the remote server....Failure: Attempt to retrieve loan-status for a non-existant Account : 0000000019. <br/>
+Unable to connect to the remote server....Failure: Attempt to retrieve loan-status for a non-existant Account : 0000000008. <br/>
+Unable to connect to the remote server....Failure: Attempt to retrieve loan-status for a non-existant Account : 0000000005. <br/>
+Unable to connect to the remote server....Failure: Attempt to retrieve loan-status for a non-existant Account : 0000000034. <br/>
+Unable to connect to the remote server....Failure: Attempt to retrieve loan-status for a non-existant Account : 0000000038. <br/>
+Unable to connect to the remote server....Failure: Attempt to retrieve loan-status for a non-existant Account : 0000000007. <br/>
+Unable to connect to the remote server....Failure: Attempt to retrieve loan-status for a non-existant Account : 0000000021. <br/>
+The remote server returned an error: (400) Bad Request.....Failure: Attempt to retrieve loan-status for a non-existant Account : 0000000025. <br/>
+The remote server returned an error: (400) Bad Request.....Failure: Attempt to retrieve loan-status for a non-existant Account : 0000000028. <br/>
+Requesting AccountNo >> 0000000014 Request Date: 4/10/2023 5:58:41 PM :api-response-msg: [{"_id":"6431b1585d6ca92ed9cdf424","__custId":"C000014","__loanId":"L000011","__disbursementDate":"2023-02-08T10:00:00.000Z","__outStandingAmount":8000,"__v":0}]
+The remote server returned an error: (400) Bad Request.....Failure: Attempt to retrieve loan-status for a non-existant Account : 0000000019. <br/>
+Requesting AccountNo >> 0000000008 Request Date: 4/10/2023 5:58:41 PM :api-response-msg: no loan found
+Requesting AccountNo >> 0000000005 Request Date: 4/10/2023 5:58:41 PM :api-response-msg: [{"_id":"642de13c08f879aae177aa47","__custId":"C000005","__loanId":"L000007","__disbursementDate":"2023-02-08T10:00:00.000Z","__outStandingAmount":8000,"__v":0},{"_id":"6430a54dfd029905c2584de3","__custId":"C000005","__loanId":"L000008","__disbursementDate":"2023-02-08T10:00:00.000Z","__outStandingAmount":8000,"__v":0}]
+The remote server returned an error: (400) Bad Request.....Failure: Attempt to retrieve loan-status for a non-existant Account : 0000000034. <br/>
+The remote server returned an error: (400) Bad Request.....Failure: Attempt to retrieve loan-status for a non-existant Account : 0000000038. <br/>
+Requesting AccountNo >> 0000000007 Request Date: 4/10/2023 5:58:42 PM :api-response-msg: no loan found
+The remote server returned an error: (400) Bad Request.....Failure: Attempt to retrieve loan-status for a non-existant Account : 0000000021. <br/>
